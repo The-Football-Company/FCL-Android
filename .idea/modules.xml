@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FCL-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/FCL-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FCL-Android.demo.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FCL-Android.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/FCL-Android.demo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/FCL-Android.demo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/FCL-Android.demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/FCL-Android.demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/FCL-Android.demo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/FCL-Android.demo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/FCL-Android.library.unitTest.iml" />
+    </modules>
+  </component>
+</project>

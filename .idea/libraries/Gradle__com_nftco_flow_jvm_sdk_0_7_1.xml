@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nftco:flow-jvm-sdk:0.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nftco/flow-jvm-sdk/0.7.1/6cee601d9ce1326d56bde51487abc9da421bf395/flow-jvm-sdk-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nftco/flow-jvm-sdk/0.7.1/cc32e7ee841ed6b529a6d5e402f2ad5a17893968/flow-jvm-sdk-0.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nftco/flow-jvm-sdk/0.7.1/59f3fa3f0cd0fb34ba222ffd710bd3f9f02e03ce/flow-jvm-sdk-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

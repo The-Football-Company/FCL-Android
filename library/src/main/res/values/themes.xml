@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="TFCBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/TFCModalStyle</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+    </style>
+
+    <style name="TFCModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>
