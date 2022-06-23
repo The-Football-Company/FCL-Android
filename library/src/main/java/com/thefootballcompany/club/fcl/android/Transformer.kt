@@ -76,7 +76,7 @@ class ScriptTransformer(private val appInfo: AppInfo) : BaseTransformer() {
                 log("original script: $script")
 
                 appInfo.variables.entries.forEach { entry ->
-                    newScript = script.replace(entry.key, entry.value)
+                    newScript = newScript.replace(entry.key, entry.value)
                 }
 
                 log("transformed script: $newScript")

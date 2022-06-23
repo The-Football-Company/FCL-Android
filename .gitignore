@@ -4,6 +4,7 @@
 /.idea/libraries/
 /.idea/caches
 /.idea/workspace.xml
+/.idea/misc.xml
 /.idea/vcs.xml
 .DS_Store
 /build
